@@ -1,5 +1,7 @@
 export default function two_crystal_balls(breaks: boolean[]): number {
 
+    // O (N^)
+
     // aqui definimos qual será a estratégia de pulo
     // na intenção de otimizar a busca
     // aqui nós setamos que vamos ao invés de passar por cada um dos itens, um de cada vez
